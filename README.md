@@ -1,6 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73254785/114708392-18db4d00-9d4d-11eb-9c81-c4d8984db57e.png"  width="400" height="790">
-
-
 
 # i_am_poor
 
