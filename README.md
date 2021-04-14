@@ -1,4 +1,4 @@
-![Screenshot_1618401067](https://user-images.githubusercontent.com/73254785/114705945-293df880-9d4a-11eb-9d9b-1688ec8e4cbb.png)
+
 # i_am_poor
 
 A new Flutter application.
